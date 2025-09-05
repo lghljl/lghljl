@@ -16,10 +16,6 @@ public class HelloController {
                 public List<String> getList() {
                     return List.of("111", "222");
                 }
-                @GetMapping("/list2")
-        public List<String> getList2() {
-            return List.of("333", "444");
-        }
 
     }
 
