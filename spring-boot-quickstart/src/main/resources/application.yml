@@ -1,2 +1,12 @@
 server:
   port: 8081
+
+my:
+  mood:
+    today: 周五
+    content: 期待周末
+    author: "程序猿"
+
+  feature:
+    helloSwitch: false
+    closeMsg: "该接口正在维护，10分钟后再来吧！"
