@@ -52,7 +52,6 @@ public class DrinkController {
         }
         return ApiResponse.success("菜单获取成功", menu);
     }
-
     /**
      * 下单
      *
